@@ -328,7 +328,7 @@ export const education = [
     school: "Alma Mater the School, Gorakhpur",
     date: "Apr 2013 - Mar 2015",
     grade: "91.2%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Maths.",
+    desc: "I completed my class 10 education at Alma Mater the School, Gorakhpur, where I studied Science with Maths.",
     degree: "CBSE(X), Science with Computer",
   },
 ];
