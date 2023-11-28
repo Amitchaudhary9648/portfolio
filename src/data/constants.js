@@ -374,10 +374,16 @@ export const projects = [
         github: "https://github.com/Amitchaudhary9648",
       },
       {
+        name: "Aman Katiyar",
+        img: "https://media.licdn.com/dms/image/D4D35AQFlnH4hKOcysw/profile-framedphoto-shrink_800_800/0/1701155661862?e=1701774000&v=beta&t=ev6kGIAzlpGoy9_9ufAh1qzE_BwjQ3WevTVbfaS-Vbk",
+        linkedin: "https://www.linkedin.com/in/aman-katiyar-1708a0163/",
+        github: "https://github.com/amanQA",
+      },
+      {
         name: "Archita Mishra",
         img: "https://media.licdn.com/dms/image/C4D03AQHCHLLjlrjbxQ/profile-displayphoto-shrink_800_800/0/1661932087385?e=1706745600&v=beta&t=7cPN33SwdhFORcyoP7tjGGz5SsVf1lSO1SMwmLpUfnE",
         linkedin: "https://www.linkedin.com/in/archita-mishra-826a2216b/",
-        github: "https://github.com/Amitchaudhary9648",
+        github: "https://github.com/Architam",
       },
     ],
   },
@@ -414,10 +420,16 @@ export const projects = [
         github: "https://github.com/Amitchaudhary9648",
       },
       {
+        name: "Aman Katiyar",
+        img: "https://media.licdn.com/dms/image/D4D35AQFlnH4hKOcysw/profile-framedphoto-shrink_800_800/0/1701155661862?e=1701774000&v=beta&t=ev6kGIAzlpGoy9_9ufAh1qzE_BwjQ3WevTVbfaS-Vbk",
+        linkedin: "https://www.linkedin.com/in/aman-katiyar-1708a0163/",
+        github: "https://github.com/amanQA",
+      },
+      {
         name: "Archita Mishra",
         img: "https://media.licdn.com/dms/image/C4D03AQHCHLLjlrjbxQ/profile-displayphoto-shrink_800_800/0/1661932087385?e=1706745600&v=beta&t=7cPN33SwdhFORcyoP7tjGGz5SsVf1lSO1SMwmLpUfnE",
         linkedin: "https://www.linkedin.com/in/archita-mishra-826a2216b/",
-        github: "https://github.com/Amitchaudhary9648",
+        github: "https://github.com/Architam",
       },
       {
         name: "Sudhanshu Singh",
