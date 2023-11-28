@@ -373,6 +373,12 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/amit-chaudhary-02412b14b/",
         github: "https://github.com/Amitchaudhary9648",
       },
+      {
+        name: "Archita Mishra",
+        img: "https://media.licdn.com/dms/image/C4D03AQHCHLLjlrjbxQ/profile-displayphoto-shrink_800_800/0/1661932087385?e=1706745600&v=beta&t=7cPN33SwdhFORcyoP7tjGGz5SsVf1lSO1SMwmLpUfnE",
+        linkedin: "https://www.linkedin.com/in/archita-mishra-826a2216b/",
+        github: "https://github.com/Amitchaudhary9648",
+      },
     ],
   },
   {
@@ -409,14 +415,14 @@ export const projects = [
       },
       {
         name: "Archita Mishra",
-        img: "https://user-images.githubusercontent.com/59361363/285442275-59ee9893-8f68-4e7d-9dd7-d5a37ba2401e.jpg",
-        linkedin: "https://www.linkedin.com/in/amit-chaudhary-02412b14b/",
+        img: "https://media.licdn.com/dms/image/C4D03AQHCHLLjlrjbxQ/profile-displayphoto-shrink_800_800/0/1661932087385?e=1706745600&v=beta&t=7cPN33SwdhFORcyoP7tjGGz5SsVf1lSO1SMwmLpUfnE",
+        linkedin: "https://www.linkedin.com/in/archita-mishra-826a2216b/",
         github: "https://github.com/Amitchaudhary9648",
       },
       {
         name: "Sudhanshu Singh",
-        img: "https://user-images.githubusercontent.com/59361363/285442275-59ee9893-8f68-4e7d-9dd7-d5a37ba2401e.jpg",
-        linkedin: "https://www.linkedin.com/in/amit-chaudhary-02412b14b/",
+        img: "https://media.licdn.com/dms/image/D4D03AQH0j_AmXM-1iw/profile-displayphoto-shrink_800_800/0/1680447317212?e=1706745600&v=beta&t=nUgUYZvjxLp80UwGBGw6ugUE1V08qVwtyTzWbckrBsY",
+        linkedin: "https://www.linkedin.com/in/sudhansu-singh/",
         github: "https://github.com/Amitchaudhary9648",
       },
     ],
