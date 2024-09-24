@@ -1,5 +1,5 @@
 import EmsImage from '../images/ems-img.png'
-import BallersImage from '../images/ballers.png'
+import BallersImage from '../images/ballers-img.png'
 
 export const Bio = {
   name: "Amit Chaudhary",
