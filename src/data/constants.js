@@ -14,7 +14,7 @@ export const Bio = {
     "https://drive.google.com/drive/folders/1XZYzE1oTo4IVXsi6wfzY6XzuxYh77YWa?usp=sharing",
   linkedin: "https://www.linkedin.com/in/amit-chaudhary-02412b14b/",
   twitter: "https://twitter.com/AmitCha81018203",
-  insta: "https://www.instagram.com/amitchaudhary.1999/",
+  insta: "https://www.instagram.com/amit_chaudhary_1999/",
   facebook: "https://www.facebook.com/profile.php?id=100009678642597",
 };
 
