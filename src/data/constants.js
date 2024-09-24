@@ -1,3 +1,6 @@
+import EmsImage from '../images/ems-img.png'
+import BallersImage from '../images/ballers.png'
+
 export const Bio = {
   name: "Amit Chaudhary",
   roles: [
@@ -353,6 +356,26 @@ export const projects = [
     category: ["android app", "ios app", "hybrid app"],
     //github: "https://github.com/",
     webapp: "https://apps.apple.com/us/app/gigworx/id1449589940",
+    member: [
+      {
+        name: "Amit Chaudhary",
+        img: "https://user-images.githubusercontent.com/59361363/285442275-59ee9893-8f68-4e7d-9dd7-d5a37ba2401e.jpg",
+        linkedin: "https://www.linkedin.com/in/amit-chaudhary-02412b14b/",
+        github: "https://github.com/Amitchaudhary9648",
+      },
+      {
+        name: "Abhishek Mishra",
+        img: "https://media.licdn.com/dms/image/v2/C5103AQEhp5dvvEDaig/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1565108955713?e=1732752000&v=beta&t=Ulq6ccMO8zPxKtffJIjReJNS8oJkRfFllEMFKB3vdmQ",
+        linkedin: "https://www.linkedin.com/in/abhisek-mishra-323725181/",
+        github: "https://github.com/amanQA",
+      },
+      {
+        name: "Varun Kumar Sharma",
+        img: "https://media.licdn.com/dms/image/v2/D5635AQE24ZXzIQL-LQ/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725364998378?e=1727780400&v=beta&t=LUQs3xBoOBJJklut3efNPRuKEAvTR6Y6L0Z12ILnfxo",
+        linkedin: "https://www.linkedin.com/in/varun-kumar-sharma-1b5930144/",
+        github: "https://github.com/Architam",
+      },
+    ],
   },
   {
     id: 0,
@@ -375,13 +398,13 @@ export const projects = [
       },
       {
         name: "Aman Katiyar",
-        img: "https://media.licdn.com/dms/image/D4D35AQFlnH4hKOcysw/profile-framedphoto-shrink_800_800/0/1701155661862?e=1701774000&v=beta&t=ev6kGIAzlpGoy9_9ufAh1qzE_BwjQ3WevTVbfaS-Vbk",
+        img: "https://media.licdn.com/dms/image/v2/C5603AQGpXa0R50lWpQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1651747211126?e=1732752000&v=beta&t=Tu2J2z4wEhHl9SDOqedOoMeyy5S5YkNWczA3hQU7k-Y",
         linkedin: "https://www.linkedin.com/in/aman-katiyar-1708a0163/",
         github: "https://github.com/amanQA",
       },
       {
         name: "Archita Mishra",
-        img: "https://media.licdn.com/dms/image/C4D03AQHCHLLjlrjbxQ/profile-displayphoto-shrink_800_800/0/1661932087385?e=1706745600&v=beta&t=7cPN33SwdhFORcyoP7tjGGz5SsVf1lSO1SMwmLpUfnE",
+        img: "https://media.licdn.com/dms/image/v2/C4D03AQHCHLLjlrjbxQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1661932087384?e=1732752000&v=beta&t=O9i-ScvU8YJeU4fsDBvnTzQ1-NUaPr9_41sI0fn6lSo",
         linkedin: "https://www.linkedin.com/in/archita-mishra-826a2216b/",
         github: "https://github.com/Architam",
       },
@@ -406,8 +429,7 @@ export const projects = [
     date: "March 2023 - Present",
     description:
       "It's an Event Management app. There are various events happing globally. The event management app saves time by having all of the tasks centralized in a single platform. This saves time for the event organizer, the team of professionals involved, and even attendees or exhibitors, making the whole experience more enjoyable. Users can log in to the app using email or google and apple login. Once the user is logged in he has access to all the events that are happing on our app. User can see all the detail of the event and if he is interested in any event he can apply in the event as (Speaker, Sponsor, Exhibitor and Media Partner)",
-    image:
-      "https://private-user-images.githubusercontent.com/59361363/291460471-950973ec-cf09-42b4-be17-bb019482a9fc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI5NTQzODksIm5iZiI6MTcwMjk1NDA4OSwicGF0aCI6Ii81OTM2MTM2My8yOTE0NjA0NzEtOTUwOTczZWMtY2YwOS00MmI0LWJlMTctYmIwMTk0ODJhOWZjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE5VDAyNDgwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExYWYyNmRlMGY1Y2RjMTZjNDk0M2YxZGE3MjQ0ZTMxOWIwMjhkZDM2MDg4MTEzNjJiMDMwOTkxNjBjNTVjODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.J2YMnmIHiisCsYHiK5gxoGaZhEm63DhAJ8pisrCJw3w",
+    image: EmsImage,
     tags: ["React Native", "Javascript", "Payment Gateway", "API Integration", "Redux", "Social Login"],
     category: ["android app", "ios app", "hybrid app"],
     //github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
@@ -421,36 +443,23 @@ export const projects = [
       },
       {
         name: "Aman Katiyar",
-        img: "https://media.licdn.com/dms/image/D4D35AQFlnH4hKOcysw/profile-framedphoto-shrink_800_800/0/1701155661862?e=1701774000&v=beta&t=ev6kGIAzlpGoy9_9ufAh1qzE_BwjQ3WevTVbfaS-Vbk",
+        img: "https://media.licdn.com/dms/image/v2/C5603AQGpXa0R50lWpQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1651747211126?e=1732752000&v=beta&t=Tu2J2z4wEhHl9SDOqedOoMeyy5S5YkNWczA3hQU7k-Y",
         linkedin: "https://www.linkedin.com/in/aman-katiyar-1708a0163/",
         github: "https://github.com/amanQA",
       },
       {
         name: "Archita Mishra",
-        img: "https://media.licdn.com/dms/image/C4D03AQHCHLLjlrjbxQ/profile-displayphoto-shrink_800_800/0/1661932087385?e=1706745600&v=beta&t=7cPN33SwdhFORcyoP7tjGGz5SsVf1lSO1SMwmLpUfnE",
+        img: "https://media.licdn.com/dms/image/v2/C4D03AQHCHLLjlrjbxQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1661932087384?e=1732752000&v=beta&t=O9i-ScvU8YJeU4fsDBvnTzQ1-NUaPr9_41sI0fn6lSo",
         linkedin: "https://www.linkedin.com/in/archita-mishra-826a2216b/",
         github: "https://github.com/Architam",
       },
       {
         name: "Sudhanshu Singh",
-        img: "https://media.licdn.com/dms/image/D4D03AQH0j_AmXM-1iw/profile-displayphoto-shrink_800_800/0/1680447317212?e=1706745600&v=beta&t=nUgUYZvjxLp80UwGBGw6ugUE1V08qVwtyTzWbckrBsY",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQHu5WHngPSbVg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718227225790?e=1732752000&v=beta&t=t0p8OtBqgWyorreMP8SGr-Zkje6tc75OuH6HCDWCiRE",
         linkedin: "https://www.linkedin.com/in/sudhansu-singh/",
         github: "https://github.com/Amitchaudhary9648",
       },
     ],
-  },
-  {
-    id: 3,
-    title: "Today event Scan",
-    date: "August 2023 - Present",
-    description:
-      "The is app is part of Today events project. This app is used by events admin to scan the ticket of user coming to the events.",
-    image:
-      "https://private-user-images.githubusercontent.com/59361363/291460471-950973ec-cf09-42b4-be17-bb019482a9fc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI5NTQzODksIm5iZiI6MTcwMjk1NDA4OSwicGF0aCI6Ii81OTM2MTM2My8yOTE0NjA0NzEtOTUwOTczZWMtY2YwOS00MmI0LWJlMTctYmIwMTk0ODJhOWZjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE5VDAyNDgwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExYWYyNmRlMGY1Y2RjMTZjNDk0M2YxZGE3MjQ0ZTMxOWIwMjhkZDM2MDg4MTEzNjJiMDMwOTkxNjBjNTVjODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.J2YMnmIHiisCsYHiK5gxoGaZhEm63DhAJ8pisrCJw3w",
-    tags: ["React Native", "Javascript", "QR Scanner", "Social Logins", "API Integration", "Redux"],
-    category: ["android app", "ios app", "hybrid app"],
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
   },
   {
     id: 4,
@@ -458,12 +467,63 @@ export const projects = [
     date: "September 2023 - Present",
     description:
       'Introducing "Ballers City”, the game that will keep you entertained for hours on end. With its simple yet challenging gameplay, Ballers City is anticipated to attract both casual and experienced gamers alike.”Are you ready to embark on an epic journey through this city where indulgence is welcomed? This game takes you on a journey through the city’s underbelly, where you will experience the fast-paced, high-stakes world of drugs, parties, and the mafia. In “Ballers City”, players can earn virtual currency by tapping the screen to complete various tasks and collect resources. The more you play, the more you earn, and the more you can upgrade your profile and unlock the city’s many secrets. The city is divided into 17 districts, each depicting certain aspects of this amazing city and having a separate vibe. Each district is represented by a unique character NFT. Players can level up their districts by playing and upgrading and can unlock further districts through the purchase of these NFTs. There will be a limited edition of 10,000 NFT character cards, with 588 copies per character that symbolize different aspects of this multidimensional city. Users can also purchase NFTs that give them special privileges and access to exclusive physical parties around the world. These NFTs also act as a gateway for the users to enter the earning aspects of the ecosystem. The NFTs unlock the reward pool and make the user eligible for rewards worth millions and $BALR tokens.Along with the “Reward Pool”, the game also hosts a “Lottery Pool” for the free-to-play audience which ensures that users get rewards in accordance with their levels of engagement in the game. These pools operate in cycles and are also replenished over time which ensures that rewards never stop in the Ballers ecosystem. But “Ballers City” isn’t just a game — it’s a lifestyle. Players can get a chance to be invited to attend real-life parties and events hosted by the game’s creators. These parties take place in some of the most exciting cities around the world and offer a unique opportunity to experience the world of “Ballers City” in real life.',
-    image:
-      "https://private-user-images.githubusercontent.com/59361363/291460806-211c7072-901a-42ac-bb9a-6cff619ac654.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI5NTQ1MDksIm5iZiI6MTcwMjk1NDIwOSwicGF0aCI6Ii81OTM2MTM2My8yOTE0NjA4MDYtMjExYzcwNzItOTAxYS00MmFjLWJiOWEtNmNmZjYxOWFjNjU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE5VDAyNTAwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwODc2MTFjNTY2YWUwYmRhZDljOTY4ZGFjZTU3NjM3ZGM2YjgzNWM4MThjNWExYzQwMzU3MmI0ZDYxMzQ1MDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NRZZh9XNzpkd3HRv-Pq45NEpe-ITxWDId8UNAZ-7Vpc",
+    image: BallersImage,
     tags: ["Unity Game", "Webgl Game", "Blockchain Game", "NFT Game", ],
     category: ["webgl game"],
     gameLink: "https://staging.ballers.fun/",
     webapp: "https://ballers.fun/",
+    member: [
+      {
+        name: "Amit Chaudhary",
+        img: "https://user-images.githubusercontent.com/59361363/285442275-59ee9893-8f68-4e7d-9dd7-d5a37ba2401e.jpg",
+        linkedin: "https://www.linkedin.com/in/amit-chaudhary-02412b14b/",
+        github: "https://github.com/Amitchaudhary9648",
+      },
+      {
+        name: "Manav Sharma",
+        img: "https://media.licdn.com/dms/image/v2/D4D03AQFQa8cK1mw3qQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1671980501543?e=1732752000&v=beta&t=8og4f2VhAjZOiFh3-ZYIKYeWEyGwPhaTYQ9qViLjAm4",
+        linkedin: "https://www.linkedin.com/in/manav-sharma-626288190/",
+        github: "https://github.com/amanQA",
+      },
+    ]
+  },
+  {
+    id: 3,
+    title: "Today event Scan",
+    date: "August 2023 - Present",
+    description:
+      "The is app is part of Today events project. This app is used by events admin to scan the ticket of user coming to the events.",
+    image: EmsImage,
+    tags: ["React Native", "Javascript", "QR Scanner", "Social Logins", "API Integration", "Redux"],
+    category: ["android app", "ios app", "hybrid app"],
+    github: "https://github.com/rishavchanda/Buckoid-Android-App",
+    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    member: [
+      {
+        name: "Amit Chaudhary",
+        img: "https://user-images.githubusercontent.com/59361363/285442275-59ee9893-8f68-4e7d-9dd7-d5a37ba2401e.jpg",
+        linkedin: "https://www.linkedin.com/in/amit-chaudhary-02412b14b/",
+        github: "https://github.com/Amitchaudhary9648",
+      },
+      {
+        name: "Aman Katiyar",
+        img: "https://media.licdn.com/dms/image/v2/C5603AQGpXa0R50lWpQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1651747211126?e=1732752000&v=beta&t=Tu2J2z4wEhHl9SDOqedOoMeyy5S5YkNWczA3hQU7k-Y",
+        linkedin: "https://www.linkedin.com/in/aman-katiyar-1708a0163/",
+        github: "https://github.com/amanQA",
+      },
+      {
+        name: "Archita Mishra",
+        img: "https://media.licdn.com/dms/image/v2/C4D03AQHCHLLjlrjbxQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1661932087384?e=1732752000&v=beta&t=O9i-ScvU8YJeU4fsDBvnTzQ1-NUaPr9_41sI0fn6lSo",
+        linkedin: "https://www.linkedin.com/in/archita-mishra-826a2216b/",
+        github: "https://github.com/Architam",
+      },
+      {
+        name: "Sudhanshu Singh",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQHu5WHngPSbVg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718227225790?e=1732752000&v=beta&t=t0p8OtBqgWyorreMP8SGr-Zkje6tc75OuH6HCDWCiRE",
+        linkedin: "https://www.linkedin.com/in/sudhansu-singh/",
+        github: "https://github.com/Amitchaudhary9648",
+      },
+    ],
   },
 ];
 
