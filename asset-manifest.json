@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/portfolio/static/js/main.9928289c.js",
+    "main.js": "/portfolio/static/js/main.9809e1b3.js",
     "static/media/ballers-img.png": "/portfolio/static/media/ballers-img.57eac6484453f4bdaeab.png",
     "static/media/ems-img.png": "/portfolio/static/media/ems-img.bde760046a3d7e09b9ad.png",
-    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.dd3ee4b26ced34d009d8.jpg",
+    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.31f86b962b409b77a025.jpg",
+    "static/media/tea-pro.png": "/portfolio/static/media/tea-pro.89ae598db9ea43f1742b.png",
+    "static/media/alma-mater-logo.png": "/portfolio/static/media/alma-mater-logo.2cac1cb5fb4c09f94a53.png",
     "index.html": "/portfolio/index.html",
     "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
-    "main.9928289c.js.map": "/portfolio/static/js/main.9928289c.js.map"
+    "main.9809e1b3.js.map": "/portfolio/static/js/main.9809e1b3.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.9928289c.js"
+    "static/js/main.9809e1b3.js"
   ]
 }
