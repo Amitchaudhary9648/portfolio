@@ -1,14 +1,16 @@
 import EmsImage from '../images/ems-img.png'
 import BallersImage from '../images/ballers-img.png'
+import TeaProImage from '../images/tea-pro.png'
 
 export const Bio = {
   name: "Amit Chaudhary",
   roles: [
     "Mobile App Developer",
     "React Native Developer",
+    "React JS Developer"
   ],
   description:
-    " I am a Mobile App Developer with a 3 years of experience, specializing in the React Native framework. My portfolio boasts the successful development and publication of 5+ apps on the App Store and Google Play Store, showcasing my end-to-end project delivery capabilities. I take pride in my ability to single-handedly manage and execute projects. Proficient in crafting responsive apps that seamlessly scale across all screen sizes. My expertise lies in developing apps from scratch, and I am excited to bring my skills and passion to your next big project. Let's collaborate and turn ideas into exceptional, user-friendly mobile applications!",
+    " I am a Mobile App Developer with a 4 years of experience, specializing in the React Native framework. My portfolio boasts the successful development and publication of 5+ apps on the App Store and Google Play Store, showcasing my end-to-end project delivery capabilities. I take pride in my ability to single-handedly manage and execute projects. Proficient in crafting responsive apps that seamlessly scale across all screen sizes. My expertise lies in developing apps from scratch, and I am excited to bring my skills and passion to your next big project. I have also learned the skill of frontend development with React JS. Let's collaborate and turn ideas into exceptional, user-friendly mobile applications!",
   github: "https://github.com/Amitchaudhary9648",
   resume:
     "https://drive.google.com/drive/folders/1XZYzE1oTo4IVXsi6wfzY6XzuxYh77YWa?usp=sharing",
@@ -49,12 +51,12 @@ export const skills = [
       {
         name: "Social Logins",
         image:
-          "https://www.getopensocial.com/wp-content/uploads/2020/12/social-login-COLOR_2.png",
+          "https://i.pinimg.com/736x/3d/3f/d0/3d3fd046ee5e4398316f922810dbfedb.jpg",
       },
       {
         name: "API Integration",
         image:
-          "https://anchorcomputersoftware.com/images/portfolio/api2.png",
+          "https://img.freepik.com/premium-vector/api-icon-flat-style-software-integration-vector-illustration-isolated-background-algorithm-programming-sign-business-concept_157943-16325.jpg",
       },
       {
         name: "Payment Gateway",
@@ -109,7 +111,7 @@ export const skills = [
       {
         name: "Social Logins",
         image:
-          "https://www.getopensocial.com/wp-content/uploads/2020/12/social-login-COLOR_2.png",
+          "https://i.pinimg.com/736x/3d/3f/d0/3d3fd046ee5e4398316f922810dbfedb.jpg",
       },
       {
         name: "MPAndroidChart",
@@ -151,7 +153,32 @@ export const skills = [
       {
         name: "UI Development",
         image:
-          "https://getstream.io/blog/static/d89edb5292ffaa651fe6b416a7ed0c93/0171f/swiftui.jpg",
+          "https://swiftui.design/logo-dark.png",
+      },
+    ],
+  },
+  {
+    title: "React Web Development",
+    skills: [
+      {
+        name: "React JS",
+        image:
+          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+      },
+      {
+        name: "Javascript",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+      },
+      {
+        name: "Third-Party Library",
+        image:
+          "https://cdn.imgbin.com/3/20/16/imgbin-payment-gateway-logo-credit-card-paypal-credit-card-g2cmx6Mh11pnd1Rddi9aZHRBx.jpg",
+      },
+      {
+        name: "UI Development",
+        image:
+          "https://blog.openreplay.com/images/fundamentals-of-ui-design/images/hero.png",
       },
     ],
   },
@@ -197,7 +224,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png",
       },
       {
         name: "GitHub",
@@ -212,7 +239,7 @@ export const skills = [
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://s3-alpha.figma.com/hub/file/2811018019/cae7d25d-8aff-4c49-8189-fad585dfb7cb-cover.png",
       },
       {
         name: "Jira",
@@ -318,7 +345,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://almamater.edu.in/wp-content/uploads/2021/07/logos.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0rAgO9-jFzLtajkPMxyz7F-QTErJsoNDWA&s",
     school: "Alma Mater the School, Gorakhpur",
     date: "Apr 2015 - Apr 2017",
     grade: "76.6%",
@@ -339,6 +366,33 @@ export const education = [
 export const projects = [
   {
     id: 9,
+    title: "Tea Pro",
+    date: "May 2024 - September 2024",
+    description:
+      "Tea-Pro is a web app built with React JS designed to streamline project management and improve team collaboration. It offers secure user authentication, a personalized dashboard for project and task overviews, and modules for managing detailed project information, tasks, milestones, and team performance ratings. Additionally, it includes a Tea Topics feature for sharing knowledge within the organization, enabling efficient workflows and enhanced communication, ultimately driving organizational efficiency and optimized project delivery.",
+    image:
+      TeaProImage,
+    tags: [
+      "React App",
+      "Javascript",
+      "Context API",
+      "Kanban",
+      "Project Management"
+    ],
+    category: ["react app"],
+    //github: "https://github.com/",
+    webapp: "https://pms.recru.in/login",
+    member: [
+      {
+        name: "Amit Chaudhary",
+        img: "https://user-images.githubusercontent.com/59361363/285442275-59ee9893-8f68-4e7d-9dd7-d5a37ba2401e.jpg",
+        linkedin: "https://www.linkedin.com/in/amit-chaudhary-02412b14b/",
+        github: "https://github.com/Amitchaudhary9648",
+      },
+    ],
+  },
+  {
+    id: 5,
     title: "Gigworx",
     date: "January 2022 - August 2022",
     description:

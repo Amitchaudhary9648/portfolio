@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import AlmaMaterLogo from '../../images/alma-mater-logo.png'
 
 const Document = styled.img`
     display: none;
@@ -132,7 +133,7 @@ const EducationCard = ({ education }) => {
     return (
         <Card>
             <Top>
-                <Image src={education.img} />
+                <Image src={education.id == 0 ? education.img : AlmaMaterLogo} />
                 <Body>
                     <Name>{education.school}</Name>
                     <Degree>{education.degree}</Degree>

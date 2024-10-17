@@ -39,6 +39,12 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="hybrid app" onClick={() => setToggle('hybrid app')}>HYBRID APP's</ToggleButton>
           }
           <Divider />
+          {toggle === 'react app' ?
+            <ToggleButton active value="react app" onClick={() => setToggle('react app')}>REACT APP's</ToggleButton>
+            :
+            <ToggleButton value="react app" onClick={() => setToggle('react app')}>REACT APP's</ToggleButton>
+          }
+          <Divider />
           {toggle === 'webgl game' ?
             <ToggleButton active value="webgl game" onClick={() => setToggle('webgl game')}>Unity Game</ToggleButton>
             :
